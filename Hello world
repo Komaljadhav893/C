@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello World");
+
+    return 0;
+}
+The provided C program is a simple demonstration of the basic structure of a C program.
+
+It includes the stdio.h library for input/output operations.
+The main() function serves as the program's entry point.
+Inside the main() function, the printf() function outputs the text "Hello World" to the console.
+The return 0; statement signifies successful program execution
